@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "start": "ts-node ./src/day-1.ts",
+        "start": "ts-node ./src/day-2.ts",
         "test": "jest",
         "test:watch": "jest --watch"
     },
